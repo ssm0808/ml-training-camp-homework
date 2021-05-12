@@ -13,4 +13,4 @@ target_mean_v3 using time: 0.003965616226196289s, speed up: 4561.593518908195 wi
 result4: [0.52371544 0.5179584  0.5256917  ... 0.5179584  0.5383104  0.5256917 ]
 target_mean_v4 using time: 0.0012919902801513672s,speed up: 14001.288983207234 with v1
 
-target_mean_v1是原始实现，target_mean_v4是我自己的实现，target_mean_v4提高了19310陪。
+target_mean_v1是原始实现，target_mean_v4是我自己的实现，target_mean_v4提高了14001陪。
